@@ -20,6 +20,3 @@ image3| image4
 
 Emojis are great :1+:
 
-
-
-
